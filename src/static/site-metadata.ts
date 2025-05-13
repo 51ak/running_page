@@ -15,10 +15,10 @@ const getBasePath = () => {
 };
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
-  siteUrl: 'https://yihong.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
-  description: 'Personal site and blog',
+  siteTitle: '51ak的跑步记录',
+  siteUrl: 'https://www.top580.com/run',
+  logo: 'https://www.top580.com/run/51akrunning.png',
+  description: '51ak的跑步记录',
   navLinks: [
     {
       name: 'Summary',
